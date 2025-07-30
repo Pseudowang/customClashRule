@@ -5,5 +5,5 @@ payload:
   - '+.plnkr.co'
   - 'api.ipify.org'
   - '+.leiting.app'
-
-
+  - '+.69yun69.com'
+  - '+.loseprivacy.sbs'
