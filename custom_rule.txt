@@ -1,0 +1,6 @@
+payload:
+  - '+.pseudoyu.com'
+  - '+.tikhub.io'
+  - '+.skyue.com'
+  - '+.plnkr.co'
+
