@@ -3,4 +3,6 @@ payload:
   - '+.tikhub.io'
   - '+.skyue.com'
   - '+.plnkr.co'
+  - 'api.ipify.org'
+  
 
