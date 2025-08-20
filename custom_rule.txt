@@ -7,3 +7,4 @@ payload:
   - '+.leiting.app'
   - '+.69yun69.com'
   - '+.loseprivacy.sbs'
+  - '+.2209080.xyz'
